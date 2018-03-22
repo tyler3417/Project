@@ -18,16 +18,15 @@ main
 {
     width:100%;
     height:500px;
-    float: right;
     overflow:auto;
     text-align:center;
 	background-color:cornflowerblue;
+	display:flex;
     
 }
 footer
 {
     background-color:rgba(0, 255, 212, 0.4);
     height:50px;
-    clear:both;
     text-align:center;
 }
